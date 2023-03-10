@@ -18,7 +18,7 @@
 
 ---
 
-Welcome to Animo's GitHub! At Animo we believe in open source, and a lot of the work we do is open source. This repository is a collection of our open source repositories, but also open source projects Animo contributes to!
+Welcome to Animo's GitHub! At Animo we believe in open source, and a lot of the work we do is open source. This repository is a collection of our open source repositories, but also open source projects Animo contributes to.
 
 ## Our projects
 
