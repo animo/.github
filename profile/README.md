@@ -30,7 +30,7 @@ This lists some of Animo's open source
 | [Animo Self-Sovereign Identity Demo](https://github.com/animo/animo-demo)                   | An interactive demo that demonstrates the use of verifiable credentials. The demo is built using [Aries Framework Javascript](https://aries.js.org) (AFJ). |
 | [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity) | An awesome list of self-sovereign identity resources.                                                                                                      |
 | [React Native BBS Signatures](https://github.com/animo/react-native-bbs-signatures)         | Use BBS+ Signatures in React Native.                                                                                                                        |
-| [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energe for iOS & Android                                                                            |
+| [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energe for iOS & Android.                                                                            |
 | [Indy SDK Expo Plugin for React Native](https://github.com/animo/indy-sdk-expo-plugin)      | An Explo Config Plugin to automatically configure the Indy SDK in React Native.                                                                             |
 
 ## Projects we contribute to
