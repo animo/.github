@@ -42,8 +42,8 @@ Although these repostiories are not owned by Animo, we contribute to them on a r
 | [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) | A TypeScript framework for Node.JS & React Native that allows building SSI Agents and DIDComm services compliant with the standards defined in the Aries RFCs. |
 | [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloud-agent-python)     | A foundation for building decentralized identity applications and services running in non-mobile environments.                                                 |
 | [Aries Asakr](https://github.com/hyperledger/aries-askar)                               | Secure storage designed for Hyperledger Aries agents.                                                                                                          |
-| [Aries Asakr](https://github.com/hyperledger/aries-askar)                               | A library for interacting with Hyperledger Indy ledger instances.                                                                                              |
-| [Aries Asakr](https://github.com/hyperledger/anoncreds-rs)                              | An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/).                                                         |
+| [Indy VDR](https://github.com/hyperledger/indy-vdr)                               | A library for interacting with Hyperledger Indy ledger instances.                                                                                              |
+| [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs)                              | An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/).                                                         |
 
 ## Reach out to us
 
