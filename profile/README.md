@@ -22,7 +22,7 @@ Welcome to Animo's GitHub! At Animo we believe in open source, and a lot of the 
 
 ## Our projects
 
-This lists some of Animo's open source
+This lists some of Animo's open source projects.
 
 | Repository                                                                                  | Description                                                                                                                                                |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
