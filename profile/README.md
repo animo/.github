@@ -37,7 +37,7 @@ This lists some of Animo's open source projects.
 
 Although these repostiories are not owned by Animo, we contribute to them on a regular basis. If you're curious what technology we use, check out these repositories.
 
-| Template                                                                                | Description                                                                                                                                                    |
+| Repository                                                                                | Description                                                                                                                                                    |
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) | A TypeScript framework for Node.JS & React Native that allows building SSI Agents and DIDComm services compliant with the standards defined in the Aries RFCs. |
 | [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloud-agent-python)     | A foundation for building decentralized identity applications and services running in non-mobile environments.                                                 |
