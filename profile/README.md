@@ -35,7 +35,6 @@ This lists some of Animo's open source projects.
 | [DCQL Playground](https://github.com/animo/dcql-playground)                                 | A playground to test DCQL queries against credentials.                                                         |
 | [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.                               |
 | [React Native BBS Signatures](https://github.com/animo/react-native-bbs-signatures)         | BBS+ Signatures support in React Native.                                                                       |
-| [Indy SDK Expo Plugin for React Native](https://github.com/animo/indy-sdk-expo-plugin)      | Expo Config Plugin to automatically configure the Indy SDK.                                                    |
 | [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity) | An awesome list of self-sovereign identity resources.                                                          |
 
 
