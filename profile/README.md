@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-<h1 align="center" ><b>Animo GitHub</b></h1>
+<h1 align="center" ><b>Animo Solutions</b></h1>
 
 <p align="center">
   <a href="#our-projects">Our projects</a> 
@@ -24,29 +24,37 @@ Welcome to Animo's GitHub! At Animo we believe in open source, and a lot of the 
 
 This lists some of Animo's open source projects.
 
-| Repository                                                                                  | Description                                                                                                                                                |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Siera CLI](https://github.com/animo/siera-cli)                                             | Siera CLI is the most convenient way for self-sovereign identity (SSI) developers to interact with SSI agents.                                             |
-| [Siera Desktop](https://github.com/animo/siera-desktop)                                     | Siera Desktop is a desktop app that allows you to work with decentralized identity through an [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) agent. It is built using Electron and React.                                             |
-| [Animo Self-Sovereign Identity Demo](https://github.com/animo/animo-demo)                   | An interactive demo that demonstrates the use of verifiable credentials. The demo is built using [Aries Framework Javascript](https://aries.js.org) (AFJ). |
-| [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity) | An awesome list of self-sovereign identity resources.                                                                                                      |
-| [Animo Development Mediator](https://github.com/animo/animo-mediator)                       | An easy to set-up Aries and DIDComm v1 mediator built on Aries Framework JavaScript.                                                                        |
-| [React Native BBS Signatures](https://github.com/animo/react-native-bbs-signatures)         | Use BBS+ Signatures in React Native.                                                                                                                        |
-| [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energe for iOS & Android.                                                                            |
-| [Indy SDK Expo Plugin for React Native](https://github.com/animo/indy-sdk-expo-plugin)      | An Explo Config Plugin to automatically configure the Indy SDK in React Native.                                                                             |
+
+| Repository                                                                                  | Description                                                                                                    |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [Paradym Wallet](https://github.com/animo/paradym-wallet)                                   | Mobile wallet to seamlessly manage and present your digital credentials.                                       |
+| [mDOC](https://github.com/animo/mdoc)                                                       | TypeScript library to work with ISO 18013-5 and ISO 18013-7 mDOC (and mDL).                                    |
+| [Expo mDOC Data Transfer](https://github.com/animo/expo-mdoc-data-transfer)                 | Expo Module for ISO 18013-5 Data Transfer.                                                                     |
+| [Expo Secure Environment](https://github.com/animo/expo-secure-environment)                 | Expo Module for cryptographic operations using the devices Secure Environment behind biometric authentication. |
+| [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api)       | Expo Module to automatically set up and configure Digital Credentials API for Android apps.                    |
+| [DCQL Playground](https://github.com/animo/dcql-playground)                                 | A playground to test DCQL queries against credentials.                                                         |
+| [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.                               |
+| [React Native BBS Signatures](https://github.com/animo/react-native-bbs-signatures)         | BBS+ Signatures support in React Native.                                                                       |
+| [Indy SDK Expo Plugin for React Native](https://github.com/animo/indy-sdk-expo-plugin)      | Expo Config Plugin to automatically configure the Indy SDK.                                                    |
+| [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity) | An awesome list of self-sovereign identity resources.                                                          |
+
 
 ## Projects we contribute to
 
-Although these repostiories are not owned by Animo, we contribute to them on a regular basis. If you're curious what technology we use, check out these repositories.
+Although these repositories are not owned by Animo, we contribute to them on a regular basis. If you're curious what technology we use, check out these repositories.
 
-| Repository                                                                                | Description                                                                                                                                                    |
-| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Aries Framework JavaScript](https://github.com/hyperledger/aries-framework-javascript) | A TypeScript framework for Node.JS & React Native that allows building SSI Agents and DIDComm services compliant with the standards defined in the Aries RFCs. |
-| [Aries Cloud Agent Python](https://github.com/hyperledger/aries-cloud-agent-python)     | A foundation for building decentralized identity applications and services running in non-mobile environments.                                                 |
-| [Aries Askar](https://github.com/hyperledger/aries-askar)                               | Secure storage designed for Hyperledger Aries agents.                                                                                                          |
-| [Indy VDR](https://github.com/hyperledger/indy-vdr)                               | A library for interacting with Hyperledger Indy ledger instances.                                                                                              |
-| [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs)                              | An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/).                                                         |
+| Repository                                                                                   | Description                                                                                                                         |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Credo Framework](https://github.com/openwallet-foundation/credo-ts)                         | TypeScript framework for Node.JS and React Native which allows building decentralized identity and verifiable credential solutions. |
+| [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) | TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.                                                            |
+| [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts)                                | TypeScript implementation of the Digital Credentials Query Language.                                                                |
+| [Askar](https://github.com/openwallet-foundation/askar)                                      | Secure storage designed for Hyperledger Aries agents.                                                                               |
+| [Indy VDR](https://github.com/hyperledger/indy-vdr)                                          | A library for interacting with Hyperledger Indy ledger instances.                                                                   |
+| [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs)                                  | An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/).                              |
+| [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo)          | An easy to set-up Aries and DIDComm v1 mediator built on Credo.                                                                     |
+
 
 ## Reach out to us
 
-Did you know we have a community discord? Join us [here](https://discord.gg/uMPUPa36qK)!
+To reach out to us, check out our [website](https://animo.id/contact)!
+
