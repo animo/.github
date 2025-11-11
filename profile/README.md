@@ -34,7 +34,6 @@ This lists some of Animo's open source projects.
 | [Expo Digital Credentials API](https://github.com/animo/expo-digital-credentials-api)       | Expo Module to automatically set up and configure Digital Credentials API for Android apps.                    |
 | [DCQL Playground](https://github.com/animo/dcql-playground)                                 | A playground to test DCQL queries against credentials.                                                         |
 | [React Native BLE DIDComm](https://github.com/animo/react-native-ble-didcomm)               | SDK for exchanging DIDComm messages over Bluetooth Low Energy for iOS & Android.                               |
-| [React Native BBS Signatures](https://github.com/animo/react-native-bbs-signatures)         | BBS+ Signatures support in React Native.                                                                       |
 | [Awesome Self-Sovereign Identity](https://github.com/animo/awesome-self-sovereign-identity) | An awesome list of self-sovereign identity resources.                                                          |
 
 
@@ -47,8 +46,8 @@ Although these repositories are not owned by Animo, we contribute to them on a r
 | [Credo Framework](https://github.com/openwallet-foundation/credo-ts)                         | TypeScript framework for Node.JS and React Native which allows building decentralized identity and verifiable credential solutions. |
 | [OpenID for Verifiable Credentials](https://github.com/openwallet-foundation-labs/oid4vc-ts) | TypeScript library implementation of OpenID4VC and OpenID4VCI protocols.                                                            |
 | [DCQL](https://github.com/openwallet-foundation-labs/dcql-ts)                                | TypeScript implementation of the Digital Credentials Query Language.                                                                |
+| [OpenID Federation](https://github.com/openwallet-foundation-labs/openid-federation-ts)      | TypeScript implementation of the OpenID Federation.                                                                                 |
 | [Askar](https://github.com/openwallet-foundation/askar)                                      | Secure storage designed for Hyperledger Aries agents.                                                                               |
-| [Indy VDR](https://github.com/hyperledger/indy-vdr)                                          | A library for interacting with Hyperledger Indy ledger instances.                                                                   |
 | [AnonCreds RS](https://github.com/hyperledger/anoncreds-rs)                                  | An implementation of the [AnonCreds credential format](https://hyperledger.github.io/anoncreds-spec/).                              |
 | [DIDComm Mediator](https://github.com/openwallet-foundation/didcomm-mediator-credo)          | An easy to set-up Aries and DIDComm v1 mediator built on Credo.                                                                     |
 
